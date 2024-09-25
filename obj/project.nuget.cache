@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "Ajl3NIEr678=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Database-Application\\MyMvcApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "1yCRc5WPFHk=",
+  "success": true,
+  "projectFilePath": "/workspaces/MyMvcApp-Contact-Database-Application/MyMvcApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 2f273ae8450a39a73a503ffa798710e1228a92aa
 }

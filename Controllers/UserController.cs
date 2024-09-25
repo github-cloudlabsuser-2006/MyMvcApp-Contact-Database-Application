@@ -76,7 +76,7 @@ namespace MyMvcApp.Controllers
             }
             return View(user);
         }
-
+    
         // GET: User/Delete/5
         public ActionResult Delete(int id)
         {
