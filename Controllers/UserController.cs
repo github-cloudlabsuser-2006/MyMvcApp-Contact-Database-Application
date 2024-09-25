@@ -50,7 +50,7 @@ public class UserController : Controller
             // If no user is found with the provided ID, it returns a HttpNotFoundResult.
             // If an error occurs during the process, it returns the Edit view to display any validation errors.
         }
-
+    
         // GET: User/Delete/5
         public ActionResult Delete(int id)
         {
